@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/0001-two-sum) |
+| [0605-can-place-flowers](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/0605-can-place-flowers) |
 | [2614-prime-in-diagonal](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/2614-prime-in-diagonal) |
 ## Math
 |  |
@@ -30,4 +31,8 @@
 |  |
 | ------- |
 | [1768-merge-strings-alternately](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/1768-merge-strings-alternately) |
+## Greedy
+|  |
+| ------- |
+| [0605-can-place-flowers](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/0605-can-place-flowers) |
 <!---LeetCode Topics End-->
