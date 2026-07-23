@@ -37,4 +37,8 @@
 | ------- |
 | [0334-increasing-triplet-subsequence](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/0334-increasing-triplet-subsequence) |
 | [0605-can-place-flowers](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/0605-can-place-flowers) |
+## Database
+|  |
+| ------- |
+| [1757-recyclable-and-low-fat-products](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/1757-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
