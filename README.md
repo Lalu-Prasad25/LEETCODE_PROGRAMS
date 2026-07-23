@@ -41,5 +41,6 @@
 |  |
 | ------- |
 | [0595-big-countries](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/0595-big-countries) |
+| [1148-article-views-i](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/1148-article-views-i) |
 | [1757-recyclable-and-low-fat-products](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/1757-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
