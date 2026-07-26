@@ -44,6 +44,7 @@
 | [0595-big-countries](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/0595-big-countries) |
 | [0620-not-boring-movies](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/0620-not-boring-movies) |
 | [1148-article-views-i](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/1148-article-views-i) |
+| [1667-fix-names-in-a-table](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/1667-fix-names-in-a-table) |
 | [1683-invalid-tweets](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/1683-invalid-tweets) |
 | [1757-recyclable-and-low-fat-products](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/1757-recyclable-and-low-fat-products) |
 | [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/2356-number-of-unique-subjects-taught-by-each-teacher) |
