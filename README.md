@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/0001-two-sum) |
+| [0217-contains-duplicate](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/0217-contains-duplicate) |
 | [0287-find-the-duplicate-number](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/0287-find-the-duplicate-number) |
 | [0334-increasing-triplet-subsequence](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/0334-increasing-triplet-subsequence) |
 | [0605-can-place-flowers](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/0605-can-place-flowers) |
@@ -25,6 +26,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/0001-two-sum) |
+| [0217-contains-duplicate](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/0217-contains-duplicate) |
 ## Two Pointers
 |  |
 | ------- |
@@ -58,4 +60,8 @@
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/0287-find-the-duplicate-number) |
+## Sorting
+|  |
+| ------- |
+| [0217-contains-duplicate](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/0217-contains-duplicate) |
 <!---LeetCode Topics End-->
