@@ -34,10 +34,12 @@
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/0287-find-the-duplicate-number) |
+| [0345-reverse-vowels-of-a-string](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/0345-reverse-vowels-of-a-string) |
 | [1768-merge-strings-alternately](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/1768-merge-strings-alternately) |
 ## String
 |  |
 | ------- |
+| [0345-reverse-vowels-of-a-string](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/0345-reverse-vowels-of-a-string) |
 | [1768-merge-strings-alternately](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/1768-merge-strings-alternately) |
 ## Greedy
 |  |
