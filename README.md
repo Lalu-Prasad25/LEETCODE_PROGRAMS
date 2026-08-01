@@ -49,6 +49,7 @@
 ## Database
 |  |
 | ------- |
+| [0176-second-highest-salary](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/0176-second-highest-salary) |
 | [0182-duplicate-emails](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/0182-duplicate-emails) |
 | [0584-find-customer-referee](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/0584-find-customer-referee) |
 | [0595-big-countries](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/0595-big-countries) |
