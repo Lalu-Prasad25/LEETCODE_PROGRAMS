@@ -19,6 +19,7 @@
 ## Math
 |  |
 | ------- |
+| [0202-happy-number](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/0202-happy-number) |
 | [2614-prime-in-diagonal](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/2614-prime-in-diagonal) |
 ## Matrix
 |  |
@@ -33,12 +34,14 @@
 | ------- |
 | [0001-two-sum](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/0169-majority-element) |
+| [0202-happy-number](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/0229-majority-element-ii) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/0442-find-all-duplicates-in-an-array) |
 ## Two Pointers
 |  |
 | ------- |
+| [0202-happy-number](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/0202-happy-number) |
 | [0287-find-the-duplicate-number](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/0287-find-the-duplicate-number) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/0345-reverse-vowels-of-a-string) |
 | [1768-merge-strings-alternately](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/1768-merge-strings-alternately) |
@@ -105,4 +108,8 @@
 | ------- |
 | [0169-majority-element](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/0229-majority-element-ii) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
