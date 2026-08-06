@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/0001-two-sum) |
+| [0049-group-anagrams](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/0136-single-number) |
@@ -33,6 +34,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/0001-two-sum) |
+| [0049-group-anagrams](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/0217-contains-duplicate) |
@@ -49,6 +51,7 @@
 ## String
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/0242-valid-anagram) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/0345-reverse-vowels-of-a-string) |
 | [1768-merge-strings-alternately](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/1768-merge-strings-alternately) |
@@ -86,6 +89,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/0229-majority-element-ii) |
