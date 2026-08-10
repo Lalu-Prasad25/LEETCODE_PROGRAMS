@@ -14,6 +14,7 @@
 | [0229-majority-element-ii](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/0229-majority-element-ii) |
 | [0287-find-the-duplicate-number](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/0287-find-the-duplicate-number) |
 | [0334-increasing-triplet-subsequence](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/0334-increasing-triplet-subsequence) |
+| [0349-intersection-of-two-arrays](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/0349-intersection-of-two-arrays) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0605-can-place-flowers](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/0605-can-place-flowers) |
 | [2614-prime-in-diagonal](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/2614-prime-in-diagonal) |
@@ -41,6 +42,7 @@
 | [0217-contains-duplicate](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/0242-valid-anagram) |
+| [0349-intersection-of-two-arrays](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/0349-intersection-of-two-arrays) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/0442-find-all-duplicates-in-an-array) |
 ## Two Pointers
 |  |
@@ -48,6 +50,7 @@
 | [0202-happy-number](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/0202-happy-number) |
 | [0287-find-the-duplicate-number](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/0287-find-the-duplicate-number) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/0345-reverse-vowels-of-a-string) |
+| [0349-intersection-of-two-arrays](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/0349-intersection-of-two-arrays) |
 | [1768-merge-strings-alternately](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/1768-merge-strings-alternately) |
 ## String
 |  |
@@ -82,6 +85,7 @@
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/0287-find-the-duplicate-number) |
+| [0349-intersection-of-two-arrays](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/0349-intersection-of-two-arrays) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -95,6 +99,7 @@
 | [0217-contains-duplicate](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/0242-valid-anagram) |
+| [0349-intersection-of-two-arrays](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/0349-intersection-of-two-arrays) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/0442-find-all-duplicates-in-an-array) |
 ## Divide and Conquer
 |  |
