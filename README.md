@@ -57,6 +57,7 @@
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/0242-valid-anagram) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/0345-reverse-vowels-of-a-string) |
@@ -132,4 +133,12 @@
 |  |
 | ------- |
 | [2180-count-integers-with-even-digit-sum](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/2180-count-integers-with-even-digit-sum) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/0020-valid-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
