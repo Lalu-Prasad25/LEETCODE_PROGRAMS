@@ -150,4 +150,5 @@
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/0141-linked-list-cycle) |
+| [0328-odd-even-linked-list](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/0328-odd-even-linked-list) |
 <!---LeetCode Topics End-->
