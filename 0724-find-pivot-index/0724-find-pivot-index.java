@@ -1,21 +1,20 @@
 class Solution {
     public int pivotIndex(int[] nums) {
-        int i=0 ,j; 
-        int leftSum, rightSum;
-        while (i <= nums.length-1){
-            leftSum=0 ;
-            for(int k = 0; k<i;k++){
-                leftSum = leftSum+ nums[k];
-            }
-            rightSum=0;
-            for(j = i+1; j<= nums.length-1;j++){
-                    rightSum= rightSum+ nums[j];
-            }
-            if(leftSum == rightSum){
-                return i;
-            }
-            i++;
+       int preSum[] = new int[nums.length];
+       int i;
+       preSum[0] = nums[0];
+       for( i=1;i<=nums.length-1;i++){
+        preSum[i] = preSum[i-1]+ nums[i];
+       }
+       if(preSum[nums.length-1] == preSum[0]){
+        return 0;
+       }
+       for( i = 1; i<=nums.length-1;i++){
+        if(preSum[i-1] == ( preSum[nums.length-1])- preSum[i]){
+            return i;
         }
+        }
+       
         return -1;
     }
 }
