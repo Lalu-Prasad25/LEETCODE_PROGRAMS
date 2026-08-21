@@ -57,6 +57,7 @@
 |  |
 | ------- |
 | [0018-4sum](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/0018-4sum) |
+| [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0141-linked-list-cycle](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/0141-linked-list-cycle) |
 | [0148-sort-list](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/0148-sort-list) |
 | [0202-happy-number](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/0202-happy-number) |
@@ -165,6 +166,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0141-linked-list-cycle](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/0141-linked-list-cycle) |
 | [0148-sort-list](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/0148-sort-list) |
