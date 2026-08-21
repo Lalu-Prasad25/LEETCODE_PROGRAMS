@@ -22,6 +22,7 @@
 | [0442-find-all-duplicates-in-an-array](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0605-can-place-flowers](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/0605-can-place-flowers) |
 | [0724-find-pivot-index](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/0724-find-pivot-index) |
+| [0977-squares-of-a-sorted-array](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/0977-squares-of-a-sorted-array) |
 | [1991-find-the-middle-index-in-array](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/1991-find-the-middle-index-in-array) |
 | [2614-prime-in-diagonal](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/2614-prime-in-diagonal) |
 ## Math
@@ -65,6 +66,7 @@
 | [0345-reverse-vowels-of-a-string](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/0345-reverse-vowels-of-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/0349-intersection-of-two-arrays) |
 | [0876-middle-of-the-linked-list](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/0876-middle-of-the-linked-list) |
+| [0977-squares-of-a-sorted-array](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/0977-squares-of-a-sorted-array) |
 | [1768-merge-strings-alternately](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/1768-merge-strings-alternately) |
 ## String
 |  |
@@ -125,6 +127,7 @@
 | [0268-missing-number](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/0349-intersection-of-two-arrays) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0977-squares-of-a-sorted-array](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/0977-squares-of-a-sorted-array) |
 ## Divide and Conquer
 |  |
 | ------- |
