@@ -68,6 +68,7 @@
 | [0876-middle-of-the-linked-list](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/0876-middle-of-the-linked-list) |
 | [0977-squares-of-a-sorted-array](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/0977-squares-of-a-sorted-array) |
 | [1768-merge-strings-alternately](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/1768-merge-strings-alternately) |
+| [3794-reverse-string-prefix](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/3794-reverse-string-prefix) |
 ## String
 |  |
 | ------- |
@@ -76,6 +77,7 @@
 | [0242-valid-anagram](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/0242-valid-anagram) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/0345-reverse-vowels-of-a-string) |
 | [1768-merge-strings-alternately](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/1768-merge-strings-alternately) |
+| [3794-reverse-string-prefix](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/3794-reverse-string-prefix) |
 ## Greedy
 |  |
 | ------- |
