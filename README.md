@@ -52,6 +52,7 @@
 | [0229-majority-element-ii](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/0268-missing-number) |
+| [0290-word-pattern](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/0290-word-pattern) |
 | [0349-intersection-of-two-arrays](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/0349-intersection-of-two-arrays) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/0442-find-all-duplicates-in-an-array) |
 ## Two Pointers
@@ -79,6 +80,7 @@
 | [0058-length-of-last-word](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/0058-length-of-last-word) |
 | [0151-reverse-words-in-a-string](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/0242-valid-anagram) |
+| [0290-word-pattern](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/0290-word-pattern) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/0345-reverse-vowels-of-a-string) |
 | [1768-merge-strings-alternately](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/1768-merge-strings-alternately) |
 | [2810-faulty-keyboard](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/2810-faulty-keyboard) |
