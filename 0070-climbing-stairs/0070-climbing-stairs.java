@@ -12,5 +12,6 @@ class Solution {
             n--;
         }
         return j;
+
     }
 }
