@@ -30,6 +30,7 @@
 | ------- |
 | [0070-climbing-stairs](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/0202-happy-number) |
+| [0231-power-of-two](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/0268-missing-number) |
 | [0509-fibonacci-number](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/0509-fibonacci-number) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/2180-count-integers-with-even-digit-sum) |
@@ -134,6 +135,7 @@
 | ------- |
 | [0136-single-number](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/0137-single-number-ii) |
+| [0231-power-of-two](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/0231-power-of-two) |
 | [0260-single-number-iii](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/0287-find-the-duplicate-number) |
@@ -211,6 +213,7 @@
 |  |
 | ------- |
 | [0203-remove-linked-list-elements](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/0203-remove-linked-list-elements) |
+| [0231-power-of-two](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/0231-power-of-two) |
 | [0509-fibonacci-number](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/0509-fibonacci-number) |
 ## Prefix Sum
 |  |
