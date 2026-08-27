@@ -28,6 +28,7 @@
 ## Math
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/0268-missing-number) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/2180-count-integers-with-even-digit-sum) |
@@ -159,6 +160,7 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/0053-maximum-subarray) |
+| [0070-climbing-stairs](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Counting
 |  |
@@ -212,4 +214,8 @@
 | ------- |
 | [0724-find-pivot-index](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/0724-find-pivot-index) |
 | [1991-find-the-middle-index-in-array](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/1991-find-the-middle-index-in-array) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
