@@ -33,6 +33,7 @@
 | [0231-power-of-two](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/0342-power-of-four) |
 | [0509-fibonacci-number](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/0509-fibonacci-number) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/2180-count-integers-with-even-digit-sum) |
 | [2614-prime-in-diagonal](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/2614-prime-in-diagonal) |
@@ -141,6 +142,7 @@
 | [0260-single-number-iii](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/0287-find-the-duplicate-number) |
+| [0342-power-of-four](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/0342-power-of-four) |
 ## Sorting
 |  |
 | ------- |
@@ -218,6 +220,7 @@
 | [0203-remove-linked-list-elements](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/0203-remove-linked-list-elements) |
 | [0231-power-of-two](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/0342-power-of-four) |
 | [0509-fibonacci-number](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/0509-fibonacci-number) |
 ## Prefix Sum
 |  |
