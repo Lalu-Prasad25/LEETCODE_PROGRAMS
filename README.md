@@ -28,6 +28,7 @@
 ## Math
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/0050-powx-n) |
 | [0070-climbing-stairs](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/0231-power-of-two) |
@@ -217,6 +218,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/0050-powx-n) |
 | [0203-remove-linked-list-elements](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/0203-remove-linked-list-elements) |
 | [0231-power-of-two](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/0326-power-of-three) |
