@@ -32,6 +32,7 @@
 | [0202-happy-number](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/0268-missing-number) |
+| [0326-power-of-three](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/0326-power-of-three) |
 | [0509-fibonacci-number](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/0509-fibonacci-number) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/2180-count-integers-with-even-digit-sum) |
 | [2614-prime-in-diagonal](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/2614-prime-in-diagonal) |
@@ -216,6 +217,7 @@
 | ------- |
 | [0203-remove-linked-list-elements](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/0203-remove-linked-list-elements) |
 | [0231-power-of-two](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/0231-power-of-two) |
+| [0326-power-of-three](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/0326-power-of-three) |
 | [0509-fibonacci-number](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/0509-fibonacci-number) |
 ## Prefix Sum
 |  |
