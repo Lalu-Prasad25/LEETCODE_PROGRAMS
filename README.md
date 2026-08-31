@@ -23,6 +23,7 @@
 | [0605-can-place-flowers](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/0605-can-place-flowers) |
 | [0724-find-pivot-index](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/0724-find-pivot-index) |
 | [0977-squares-of-a-sorted-array](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/0977-squares-of-a-sorted-array) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1991-find-the-middle-index-in-array](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/1991-find-the-middle-index-in-array) |
 | [2614-prime-in-diagonal](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/2614-prime-in-diagonal) |
 ## Math
@@ -41,6 +42,7 @@
 ## Matrix
 |  |
 | ------- |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [2614-prime-in-diagonal](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/2614-prime-in-diagonal) |
 ## Number Theory
 |  |
@@ -135,6 +137,7 @@
 | [0268-missing-number](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/0349-intersection-of-two-arrays) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 ## Bit Manipulation
 |  |
 | ------- |
