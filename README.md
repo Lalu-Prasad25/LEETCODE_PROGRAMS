@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/0001-two-sum) |
+| [0004-median-of-two-sorted-arrays](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/0004-median-of-two-sorted-arrays) |
 | [0018-4sum](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/0018-4sum) |
 | [0049-group-anagrams](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/0053-maximum-subarray) |
@@ -134,6 +135,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/0004-median-of-two-sorted-arrays) |
 | [0268-missing-number](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/0349-intersection-of-two-arrays) |
@@ -166,6 +168,7 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/0053-maximum-subarray) |
 | [0148-sort-list](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/0169-majority-element) |
