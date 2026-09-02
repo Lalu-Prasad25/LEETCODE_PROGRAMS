@@ -79,6 +79,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/0349-intersection-of-two-arrays) |
 | [0876-middle-of-the-linked-list](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/0876-middle-of-the-linked-list) |
 | [0977-squares-of-a-sorted-array](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/0977-squares-of-a-sorted-array) |
+| [1721-swapping-nodes-in-a-linked-list](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [1768-merge-strings-alternately](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/1768-merge-strings-alternately) |
 | [3794-reverse-string-prefix](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/3794-reverse-string-prefix) |
 | [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/3823-reverse-letters-then-special-characters-in-a-string) |
@@ -219,6 +220,7 @@
 | [0203-remove-linked-list-elements](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/0203-remove-linked-list-elements) |
 | [0328-odd-even-linked-list](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/0328-odd-even-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/0876-middle-of-the-linked-list) |
+| [1721-swapping-nodes-in-a-linked-list](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/1721-swapping-nodes-in-a-linked-list) |
 ## Merge Sort
 |  |
 | ------- |
