@@ -131,6 +131,7 @@
 | [1683-invalid-tweets](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/1683-invalid-tweets) |
 | [1731-the-number-of-employees-which-report-to-each-employee](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/1731-the-number-of-employees-which-report-to-each-employee) |
 | [1757-recyclable-and-low-fat-products](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/1757-recyclable-and-low-fat-products) |
+| [1934-confirmation-rate](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/1934-confirmation-rate) |
 | [1978-employees-whose-manager-left-the-company](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/1978-employees-whose-manager-left-the-company) |
 | [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/2356-number-of-unique-subjects-taught-by-each-teacher) |
 ## Binary Search
