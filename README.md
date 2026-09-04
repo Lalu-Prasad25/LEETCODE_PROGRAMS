@@ -30,6 +30,7 @@
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/0007-reverse-integer) |
 | [0050-powx-n](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/0050-powx-n) |
 | [0070-climbing-stairs](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/0202-happy-number) |
