@@ -44,6 +44,7 @@
 | [0509-fibonacci-number](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/0509-fibonacci-number) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/2180-count-integers-with-even-digit-sum) |
 | [2614-prime-in-diagonal](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/2614-prime-in-diagonal) |
+| [3945-digit-frequency-score](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/3945-digit-frequency-score) |
 ## Matrix
 |  |
 | ------- |
@@ -69,6 +70,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/0349-intersection-of-two-arrays) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/0442-find-all-duplicates-in-an-array) |
 | [1796-second-largest-digit-in-a-string](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/1796-second-largest-digit-in-a-string) |
+| [3945-digit-frequency-score](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/3945-digit-frequency-score) |
 ## Two Pointers
 |  |
 | ------- |
