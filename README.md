@@ -151,6 +151,7 @@
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/0004-median-of-two-sorted-arrays) |
 | [0268-missing-number](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/0268-missing-number) |
+| [0278-first-bad-version](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/0278-first-bad-version) |
 | [0287-find-the-duplicate-number](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/0349-intersection-of-two-arrays) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
@@ -271,4 +272,8 @@
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/0215-kth-largest-element-in-an-array) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
