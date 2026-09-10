@@ -43,6 +43,7 @@
 | [0342-power-of-four](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/0342-power-of-four) |
 | [0509-fibonacci-number](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/0509-fibonacci-number) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
+| [2169-count-operations-to-obtain-zero](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/2169-count-operations-to-obtain-zero) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/2180-count-integers-with-even-digit-sum) |
 | [2614-prime-in-diagonal](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/2614-prime-in-diagonal) |
 | [3870-count-commas-in-range](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/3870-count-commas-in-range) |
@@ -219,6 +220,7 @@
 ## Simulation
 |  |
 | ------- |
+| [2169-count-operations-to-obtain-zero](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/2169-count-operations-to-obtain-zero) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/2180-count-integers-with-even-digit-sum) |
 | [2810-faulty-keyboard](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/2810-faulty-keyboard) |
 | [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/3823-reverse-letters-then-special-characters-in-a-string) |
