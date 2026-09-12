@@ -25,6 +25,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/0349-intersection-of-two-arrays) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0605-can-place-flowers](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/0605-can-place-flowers) |
+| [0643-maximum-average-subarray-i](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/0724-find-pivot-index) |
 | [0977-squares-of-a-sorted-array](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/0977-squares-of-a-sorted-array) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
@@ -288,4 +289,8 @@
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/0278-first-bad-version) |
+## Sliding Window
+|  |
+| ------- |
+| [0643-maximum-average-subarray-i](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/0643-maximum-average-subarray-i) |
 <!---LeetCode Topics End-->
