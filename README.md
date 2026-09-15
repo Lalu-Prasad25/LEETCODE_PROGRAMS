@@ -7,6 +7,7 @@
 | [0001-two-sum](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/0004-median-of-two-sorted-arrays) |
 | [0014-longest-common-prefix](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/0014-longest-common-prefix) |
+| [0016-3sum-closest](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/0018-4sum) |
 | [0035-search-insert-position](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/0035-search-insert-position) |
 | [0049-group-anagrams](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/0049-group-anagrams) |
@@ -84,6 +85,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/0018-4sum) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0141-linked-list-cycle](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/0141-linked-list-cycle) |
@@ -188,6 +190,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/0018-4sum) |
 | [0049-group-anagrams](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/0049-group-anagrams) |
 | [0148-sort-list](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/0148-sort-list) |
