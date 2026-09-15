@@ -46,6 +46,7 @@
 | [0268-missing-number](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/0342-power-of-four) |
+| [0372-super-pow](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/0372-super-pow) |
 | [0509-fibonacci-number](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/0509-fibonacci-number) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [2139-minimum-moves-to-reach-target-score](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/2139-minimum-moves-to-reach-target-score) |
@@ -212,6 +213,7 @@
 | [0169-majority-element](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/0169-majority-element) |
 | [0191-number-of-1-bits](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/0191-number-of-1-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/0215-kth-largest-element-in-an-array) |
+| [0372-super-pow](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/0372-super-pow) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -304,4 +306,12 @@
 |  |
 | ------- |
 | [0643-maximum-average-subarray-i](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/0643-maximum-average-subarray-i) |
+## Euler's Totient Function
+|  |
+| ------- |
+| [0372-super-pow](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/0372-super-pow) |
+## Euler's Theorem
+|  |
+| ------- |
+| [0372-super-pow](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/0372-super-pow) |
 <!---LeetCode Topics End-->
