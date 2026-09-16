@@ -9,6 +9,7 @@
 | [0014-longest-common-prefix](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/0014-longest-common-prefix) |
 | [0016-3sum-closest](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/0018-4sum) |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/0035-search-insert-position) |
 | [0049-group-anagrams](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/0053-maximum-subarray) |
@@ -167,6 +168,7 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/0004-median-of-two-sorted-arrays) |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/0035-search-insert-position) |
 | [0074-search-a-2d-matrix](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/0074-search-a-2d-matrix) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/0167-two-sum-ii-input-array-is-sorted) |
