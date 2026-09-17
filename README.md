@@ -32,6 +32,7 @@
 | [0605-can-place-flowers](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/0605-can-place-flowers) |
 | [0643-maximum-average-subarray-i](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/0724-find-pivot-index) |
+| [0746-min-cost-climbing-stairs](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/0746-min-cost-climbing-stairs) |
 | [0977-squares-of-a-sorted-array](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/0977-squares-of-a-sorted-array) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1991-find-the-middle-index-in-array](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/1991-find-the-middle-index-in-array) |
@@ -224,6 +225,7 @@
 | [0070-climbing-stairs](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0509-fibonacci-number](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/0509-fibonacci-number) |
+| [0746-min-cost-climbing-stairs](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/0746-min-cost-climbing-stairs) |
 | [1137-n-th-tribonacci-number](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/1137-n-th-tribonacci-number) |
 ## Counting
 |  |
