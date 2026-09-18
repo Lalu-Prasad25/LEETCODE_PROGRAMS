@@ -120,6 +120,7 @@
 | [0242-valid-anagram](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/0290-word-pattern) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/0345-reverse-vowels-of-a-string) |
+| [0520-detect-capital](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/0520-detect-capital) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1768-merge-strings-alternately](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/1768-merge-strings-alternately) |
 | [1796-second-largest-digit-in-a-string](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/1796-second-largest-digit-in-a-string) |
