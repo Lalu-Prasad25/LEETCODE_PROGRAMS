@@ -52,6 +52,7 @@
 | [0372-super-pow](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/0372-super-pow) |
 | [0509-fibonacci-number](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/0509-fibonacci-number) |
 | [1137-n-th-tribonacci-number](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/1137-n-th-tribonacci-number) |
+| [1323-maximum-69-number](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/1323-maximum-69-number) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [2139-minimum-moves-to-reach-target-score](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/2139-minimum-moves-to-reach-target-score) |
 | [2169-count-operations-to-obtain-zero](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/2169-count-operations-to-obtain-zero) |
@@ -132,6 +133,7 @@
 | ------- |
 | [0334-increasing-triplet-subsequence](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/0334-increasing-triplet-subsequence) |
 | [0605-can-place-flowers](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/0605-can-place-flowers) |
+| [1323-maximum-69-number](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/1323-maximum-69-number) |
 | [2139-minimum-moves-to-reach-target-score](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/2139-minimum-moves-to-reach-target-score) |
 ## Database
 |  |
