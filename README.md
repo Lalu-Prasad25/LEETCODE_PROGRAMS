@@ -29,6 +29,7 @@
 | [0283-move-zeroes](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/0287-find-the-duplicate-number) |
 | [0334-increasing-triplet-subsequence](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/0334-increasing-triplet-subsequence) |
+| [0347-top-k-frequent-elements](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/0349-intersection-of-two-arrays) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0605-can-place-flowers](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/0605-can-place-flowers) |
@@ -89,6 +90,7 @@
 | [0242-valid-anagram](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/0268-missing-number) |
 | [0290-word-pattern](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/0290-word-pattern) |
+| [0347-top-k-frequent-elements](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/0349-intersection-of-two-arrays) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/0451-sort-characters-by-frequency) |
@@ -221,6 +223,7 @@
 | [0229-majority-element-ii](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/0268-missing-number) |
+| [0347-top-k-frequent-elements](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/0349-intersection-of-two-arrays) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/0451-sort-characters-by-frequency) |
@@ -235,6 +238,7 @@
 | [0169-majority-element](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/0169-majority-element) |
 | [0191-number-of-1-bits](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/0191-number-of-1-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/0347-top-k-frequent-elements) |
 | [0372-super-pow](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/0372-super-pow) |
 ## Dynamic Programming
 |  |
@@ -250,6 +254,7 @@
 | ------- |
 | [0169-majority-element](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/0229-majority-element-ii) |
+| [0347-top-k-frequent-elements](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/0451-sort-characters-by-frequency) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
@@ -321,11 +326,13 @@
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/0451-sort-characters-by-frequency) |
 ## Quickselect
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/0347-top-k-frequent-elements) |
 ## Interactive
 |  |
 | ------- |
@@ -361,5 +368,6 @@
 ## Bucket Sort
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/0451-sort-characters-by-frequency) |
 <!---LeetCode Topics End-->
