@@ -62,6 +62,7 @@
 | [2139-minimum-moves-to-reach-target-score](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/2139-minimum-moves-to-reach-target-score) |
 | [2169-count-operations-to-obtain-zero](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/2169-count-operations-to-obtain-zero) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/2180-count-integers-with-even-digit-sum) |
+| [2427-number-of-common-factors](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/2427-number-of-common-factors) |
 | [2614-prime-in-diagonal](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/2614-prime-in-diagonal) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/2894-divisible-and-non-divisible-sums-difference) |
 | [3870-count-commas-in-range](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/3870-count-commas-in-range) |
@@ -77,6 +78,7 @@
 ## Number Theory
 |  |
 | ------- |
+| [2427-number-of-common-factors](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/2427-number-of-common-factors) |
 | [2614-prime-in-diagonal](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/2614-prime-in-diagonal) |
 ## Hash Table
 |  |
@@ -379,4 +381,16 @@
 | [0347-top-k-frequent-elements](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/0451-sort-characters-by-frequency) |
 | [0692-top-k-frequent-words](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/0692-top-k-frequent-words) |
+## Enumeration
+|  |
+| ------- |
+| [2427-number-of-common-factors](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/2427-number-of-common-factors) |
+## Euclidean Algorithm
+|  |
+| ------- |
+| [2427-number-of-common-factors](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/2427-number-of-common-factors) |
+## Greatest Common Divisor
+|  |
+| ------- |
+| [2427-number-of-common-factors](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/2427-number-of-common-factors) |
 <!---LeetCode Topics End-->
