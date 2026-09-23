@@ -71,6 +71,7 @@
 | [3870-count-commas-in-range](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/3871-count-commas-in-range-ii) |
 | [3945-digit-frequency-score](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/3945-digit-frequency-score) |
+| [4000-largest-integer-with-given-digit-sum](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/4000-largest-integer-with-given-digit-sum) |
 ## Matrix
 |  |
 | ------- |
@@ -158,6 +159,7 @@
 | [0605-can-place-flowers](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/0605-can-place-flowers) |
 | [1323-maximum-69-number](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/1323-maximum-69-number) |
 | [2139-minimum-moves-to-reach-target-score](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/2139-minimum-moves-to-reach-target-score) |
+| [4000-largest-integer-with-given-digit-sum](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/4000-largest-integer-with-given-digit-sum) |
 ## Database
 |  |
 | ------- |
