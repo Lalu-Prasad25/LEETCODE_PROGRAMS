@@ -110,6 +110,7 @@
 | [0692-top-k-frequent-words](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/0692-top-k-frequent-words) |
 | [1796-second-largest-digit-in-a-string](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/1796-second-largest-digit-in-a-string) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/2154-keep-multiplying-found-values-by-two) |
+| [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3945-digit-frequency-score](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/3945-digit-frequency-score) |
 ## Two Pointers
@@ -154,6 +155,7 @@
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1768-merge-strings-alternately](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/1768-merge-strings-alternately) |
 | [1796-second-largest-digit-in-a-string](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/1796-second-largest-digit-in-a-string) |
+| [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
 | [2810-faulty-keyboard](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/2810-faulty-keyboard) |
 | [3794-reverse-string-prefix](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/3794-reverse-string-prefix) |
 | [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/3823-reverse-letters-then-special-characters-in-a-string) |
@@ -275,6 +277,7 @@
 | [0347-top-k-frequent-elements](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/0451-sort-characters-by-frequency) |
 | [0692-top-k-frequent-words](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/0692-top-k-frequent-words) |
+| [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
