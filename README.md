@@ -230,6 +230,7 @@
 | [0342-power-of-four](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/0342-power-of-four) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
+| [2595-number-of-even-and-odd-bits](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/2595-number-of-even-and-odd-bits) |
 ## Sorting
 |  |
 | ------- |
