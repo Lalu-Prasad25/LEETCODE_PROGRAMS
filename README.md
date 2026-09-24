@@ -68,6 +68,7 @@
 | [2177-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/2177-find-three-consecutive-integers-that-sum-to-a-given-number) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/2180-count-integers-with-even-digit-sum) |
 | [2427-number-of-common-factors](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/2427-number-of-common-factors) |
+| [2520-count-the-digits-that-divide-a-number](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [2614-prime-in-diagonal](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/2614-prime-in-diagonal) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/2894-divisible-and-non-divisible-sums-difference) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
