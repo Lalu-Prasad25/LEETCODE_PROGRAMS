@@ -46,6 +46,7 @@
 | [3065-minimum-operations-to-exceed-threshold-value-i](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/3065-minimum-operations-to-exceed-threshold-value-i) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
+| [3467-transform-array-by-parity](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/3467-transform-array-by-parity) |
 | [3731-find-missing-elements](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/3731-find-missing-elements) |
 ## Math
 |  |
@@ -255,6 +256,7 @@
 | [0692-top-k-frequent-words](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/0692-top-k-frequent-words) |
 | [0977-squares-of-a-sorted-array](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/0977-squares-of-a-sorted-array) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/2154-keep-multiplying-found-values-by-two) |
+| [3467-transform-array-by-parity](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/3467-transform-array-by-parity) |
 | [3731-find-missing-elements](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/3731-find-missing-elements) |
 ## Divide and Conquer
 |  |
@@ -285,6 +287,7 @@
 | [0451-sort-characters-by-frequency](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/0451-sort-characters-by-frequency) |
 | [0692-top-k-frequent-words](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/0692-top-k-frequent-words) |
 | [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
+| [3467-transform-array-by-parity](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/3467-transform-array-by-parity) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
