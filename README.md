@@ -62,6 +62,7 @@
 | [0326-power-of-three](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/0342-power-of-four) |
 | [0372-super-pow](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/0372-super-pow) |
+| [0412-fizz-buzz](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/0412-fizz-buzz) |
 | [0509-fibonacci-number](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/0509-fibonacci-number) |
 | [0728-self-dividing-numbers](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/0728-self-dividing-numbers) |
 | [1137-n-th-tribonacci-number](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/1137-n-th-tribonacci-number) |
@@ -156,6 +157,7 @@
 | [0242-valid-anagram](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/0290-word-pattern) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/0345-reverse-vowels-of-a-string) |
+| [0412-fizz-buzz](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/0412-fizz-buzz) |
 | [0443-string-compression](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/0443-string-compression) |
 | [0451-sort-characters-by-frequency](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/0451-sort-characters-by-frequency) |
 | [0520-detect-capital](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/0520-detect-capital) |
@@ -303,6 +305,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0412-fizz-buzz](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/0412-fizz-buzz) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2169-count-operations-to-obtain-zero](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/2169-count-operations-to-obtain-zero) |
