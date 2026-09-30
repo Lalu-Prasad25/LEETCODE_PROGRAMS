@@ -329,6 +329,7 @@
 | [0141-linked-list-cycle](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/0141-linked-list-cycle) |
 | [0148-sort-list](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/0148-sort-list) |
 | [0203-remove-linked-list-elements](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/0203-remove-linked-list-elements) |
+| [0206-reverse-linked-list](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/0206-reverse-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/0328-odd-even-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/0876-middle-of-the-linked-list) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/1721-swapping-nodes-in-a-linked-list) |
@@ -341,6 +342,7 @@
 | ------- |
 | [0050-powx-n](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/0050-powx-n) |
 | [0203-remove-linked-list-elements](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/0203-remove-linked-list-elements) |
+| [0206-reverse-linked-list](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/0342-power-of-four) |
