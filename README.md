@@ -80,6 +80,7 @@
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/2894-divisible-and-non-divisible-sums-difference) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
+| [3304-find-the-k-th-character-in-string-game-i](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/3304-find-the-k-th-character-in-string-game-i) |
 | [3870-count-commas-in-range](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/3871-count-commas-in-range-ii) |
 | [3945-digit-frequency-score](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/3945-digit-frequency-score) |
@@ -244,6 +245,7 @@
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [2595-number-of-even-and-odd-bits](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/2595-number-of-even-and-odd-bits) |
+| [3304-find-the-k-th-character-in-string-game-i](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/3304-find-the-k-th-character-in-string-game-i) |
 ## Sorting
 |  |
 | ------- |
@@ -317,6 +319,7 @@
 | [2177-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/2177-find-three-consecutive-integers-that-sum-to-a-given-number) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/2180-count-integers-with-even-digit-sum) |
 | [2810-faulty-keyboard](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/2810-faulty-keyboard) |
+| [3304-find-the-k-th-character-in-string-game-i](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/3304-find-the-k-th-character-in-string-game-i) |
 | [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/3823-reverse-letters-then-special-characters-in-a-string) |
 ## Stack
 |  |
@@ -352,6 +355,7 @@
 | [0326-power-of-three](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/0342-power-of-four) |
 | [0509-fibonacci-number](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/0509-fibonacci-number) |
+| [3304-find-the-k-th-character-in-string-game-i](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/3304-find-the-k-th-character-in-string-game-i) |
 ## Prefix Sum
 |  |
 | ------- |
