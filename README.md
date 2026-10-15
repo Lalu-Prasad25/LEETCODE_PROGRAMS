@@ -15,6 +15,7 @@
 | [0053-maximum-subarray](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/0053-maximum-subarray) |
 | [0073-set-matrix-zeroes](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/0074-search-a-2d-matrix) |
+| [0075-sort-colors](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/0136-single-number) |
@@ -133,6 +134,7 @@
 | [0016-3sum-closest](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/0018-4sum) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0075-sort-colors](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/0075-sort-colors) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0141-linked-list-cycle](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/0141-linked-list-cycle) |
 | [0148-sort-list](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/0148-sort-list) |
@@ -256,6 +258,7 @@
 | [0016-3sum-closest](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/0018-4sum) |
 | [0049-group-anagrams](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/0049-group-anagrams) |
+| [0075-sort-colors](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/0075-sort-colors) |
 | [0148-sort-list](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/0215-kth-largest-element-in-an-array) |
@@ -473,4 +476,12 @@
 |  |
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
