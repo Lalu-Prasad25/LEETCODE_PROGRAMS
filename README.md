@@ -53,6 +53,7 @@
 | [2614-prime-in-diagonal](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/2614-prime-in-diagonal) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+| [2942-find-words-containing-character](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/2942-find-words-containing-character) |
 | [3065-minimum-operations-to-exceed-threshold-value-i](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/3065-minimum-operations-to-exceed-threshold-value-i) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
@@ -188,6 +189,7 @@
 | [2278-percentage-of-letter-in-string](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/2278-percentage-of-letter-in-string) |
 | [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
 | [2810-faulty-keyboard](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/2810-faulty-keyboard) |
+| [2942-find-words-containing-character](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/2942-find-words-containing-character) |
 | [3794-reverse-string-prefix](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/3794-reverse-string-prefix) |
 | [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/3823-reverse-letters-then-special-characters-in-a-string) |
 ## Greedy
