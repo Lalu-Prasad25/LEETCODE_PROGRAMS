@@ -76,6 +76,7 @@
 | [0372-super-pow](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/0372-super-pow) |
 | [0412-fizz-buzz](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/0412-fizz-buzz) |
 | [0509-fibonacci-number](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/0509-fibonacci-number) |
+| [0633-sum-of-square-numbers](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/0633-sum-of-square-numbers) |
 | [0728-self-dividing-numbers](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/0728-self-dividing-numbers) |
 | [1137-n-th-tribonacci-number](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/1137-n-th-tribonacci-number) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
@@ -158,6 +159,7 @@
 | [0345-reverse-vowels-of-a-string](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/0345-reverse-vowels-of-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/0349-intersection-of-two-arrays) |
 | [0443-string-compression](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/0443-string-compression) |
+| [0633-sum-of-square-numbers](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/0633-sum-of-square-numbers) |
 | [0876-middle-of-the-linked-list](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/0876-middle-of-the-linked-list) |
 | [0881-boats-to-save-people](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/0881-boats-to-save-people) |
 | [0977-squares-of-a-sorted-array](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/0977-squares-of-a-sorted-array) |
@@ -252,6 +254,7 @@
 | [0278-first-bad-version](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/0278-first-bad-version) |
 | [0287-find-the-duplicate-number](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/0349-intersection-of-two-arrays) |
+| [0633-sum-of-square-numbers](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/0633-sum-of-square-numbers) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Bit Manipulation
