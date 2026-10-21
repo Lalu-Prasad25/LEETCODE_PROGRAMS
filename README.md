@@ -23,6 +23,7 @@
 | [0137-single-number-ii](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/0137-single-number-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/0169-majority-element) |
+| [0189-rotate-array](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/0189-rotate-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/0219-contains-duplicate-ii) |
@@ -68,6 +69,7 @@
 | [0007-reverse-integer](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/0007-reverse-integer) |
 | [0050-powx-n](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/0050-powx-n) |
 | [0070-climbing-stairs](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/0070-climbing-stairs) |
+| [0189-rotate-array](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/0268-missing-number) |
@@ -155,6 +157,7 @@
 | [0148-sort-list](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/0148-sort-list) |
 | [0151-reverse-words-in-a-string](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/0151-reverse-words-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0189-rotate-array](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/0287-find-the-duplicate-number) |
