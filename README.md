@@ -61,6 +61,7 @@
 | [3232-find-if-digit-game-can-be-won](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3467-transform-array-by-parity](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/3467-transform-array-by-parity) |
+| [3663-find-the-least-frequent-digit](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/3663-find-the-least-frequent-digit) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3731-find-missing-elements](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/3731-find-missing-elements) |
 ## Math
@@ -96,6 +97,7 @@
 | [3232-find-if-digit-game-can-be-won](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/3304-find-the-k-th-character-in-string-game-i) |
+| [3663-find-the-least-frequent-digit](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/3663-find-the-least-frequent-digit) |
 | [3870-count-commas-in-range](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/3871-count-commas-in-range-ii) |
 | [3945-digit-frequency-score](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/3945-digit-frequency-score) |
@@ -142,6 +144,7 @@
 | [2341-maximum-number-of-pairs-in-array](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/2341-maximum-number-of-pairs-in-array) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
+| [3663-find-the-least-frequent-digit](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/3663-find-the-least-frequent-digit) |
 | [3731-find-missing-elements](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/3731-find-missing-elements) |
 | [3945-digit-frequency-score](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/3945-digit-frequency-score) |
 ## Two Pointers
@@ -342,6 +345,7 @@
 | [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
 | [2341-maximum-number-of-pairs-in-array](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/2341-maximum-number-of-pairs-in-array) |
 | [3467-transform-array-by-parity](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/3467-transform-array-by-parity) |
+| [3663-find-the-least-frequent-digit](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/3663-find-the-least-frequent-digit) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
