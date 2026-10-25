@@ -207,6 +207,7 @@
 | [1768-merge-strings-alternately](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/1768-merge-strings-alternately) |
 | [1796-second-largest-digit-in-a-string](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/1796-second-largest-digit-in-a-string) |
 | [1844-replace-all-digits-with-characters](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/1844-replace-all-digits-with-characters) |
+| [2224-minimum-number-of-operations-to-convert-time](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/2224-minimum-number-of-operations-to-convert-time) |
 | [2278-percentage-of-letter-in-string](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/2278-percentage-of-letter-in-string) |
 | [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
 | [2810-faulty-keyboard](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/2810-faulty-keyboard) |
@@ -224,6 +225,7 @@
 | [0881-boats-to-save-people](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/0881-boats-to-save-people) |
 | [1323-maximum-69-number](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/1323-maximum-69-number) |
 | [2139-minimum-moves-to-reach-target-score](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/2139-minimum-moves-to-reach-target-score) |
+| [2224-minimum-number-of-operations-to-convert-time](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/2224-minimum-number-of-operations-to-convert-time) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [4000-largest-integer-with-given-digit-sum](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/4000-largest-integer-with-given-digit-sum) |
 ## Database
