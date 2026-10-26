@@ -50,6 +50,7 @@
 | [1331-rank-transform-of-an-array](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/1331-rank-transform-of-an-array) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1991-find-the-middle-index-in-array](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/1991-find-the-middle-index-in-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -144,6 +145,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/0560-subarray-sum-equals-k) |
 | [0692-top-k-frequent-words](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/0692-top-k-frequent-words) |
 | [1331-rank-transform-of-an-array](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/1331-rank-transform-of-an-array) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1796-second-largest-digit-in-a-string](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/1796-second-largest-digit-in-a-string) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/2154-keep-multiplying-found-values-by-two) |
@@ -319,6 +321,7 @@
 | [0881-boats-to-save-people](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/0881-boats-to-save-people) |
 | [0977-squares-of-a-sorted-array](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/0977-squares-of-a-sorted-array) |
 | [1331-rank-transform-of-an-array](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/1331-rank-transform-of-an-array) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/1636-sort-array-by-increasing-frequency) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/2154-keep-multiplying-found-values-by-two) |
@@ -549,4 +552,8 @@
 |  |
 | ------- |
 | [0523-continuous-subarray-sum](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/0523-continuous-subarray-sum) |
+## Counting Sort
+|  |
+| ------- |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 <!---LeetCode Topics End-->
