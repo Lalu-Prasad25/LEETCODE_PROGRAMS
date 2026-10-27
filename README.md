@@ -53,6 +53,7 @@
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1512-number-of-good-pairs](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/1512-number-of-good-pairs) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1991-find-the-middle-index-in-array](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/1991-find-the-middle-index-in-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -95,6 +96,7 @@
 | [1323-maximum-69-number](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/1323-maximum-69-number) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1360-number-of-days-between-two-dates](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/1360-number-of-days-between-two-dates) |
+| [1512-number-of-good-pairs](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/1512-number-of-good-pairs) |
 | [2139-minimum-moves-to-reach-target-score](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/2139-minimum-moves-to-reach-target-score) |
 | [2169-count-operations-to-obtain-zero](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/2169-count-operations-to-obtain-zero) |
 | [2177-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/2177-find-three-consecutive-integers-that-sum-to-a-given-number) |
@@ -148,6 +150,7 @@
 | [0692-top-k-frequent-words](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/0692-top-k-frequent-words) |
 | [1331-rank-transform-of-an-array](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/1331-rank-transform-of-an-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1512-number-of-good-pairs](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/1512-number-of-good-pairs) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1796-second-largest-digit-in-a-string](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/1796-second-largest-digit-in-a-string) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/2154-keep-multiplying-found-values-by-two) |
@@ -361,6 +364,7 @@
 | [0347-top-k-frequent-elements](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/0451-sort-characters-by-frequency) |
 | [0692-top-k-frequent-words](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/0692-top-k-frequent-words) |
+| [1512-number-of-good-pairs](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/1512-number-of-good-pairs) |
 | [2206-divide-array-into-equal-pairs](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/2206-divide-array-into-equal-pairs) |
 | [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
 | [2341-maximum-number-of-pairs-in-array](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/2341-maximum-number-of-pairs-in-array) |
