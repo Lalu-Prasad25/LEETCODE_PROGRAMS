@@ -158,6 +158,7 @@
 | [2206-divide-array-into-equal-pairs](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/2206-divide-array-into-equal-pairs) |
 | [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
 | [2341-maximum-number-of-pairs-in-array](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/2341-maximum-number-of-pairs-in-array) |
+| [2716-minimize-string-length](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/2716-minimize-string-length) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3663-find-the-least-frequent-digit](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/3663-find-the-least-frequent-digit) |
@@ -221,6 +222,7 @@
 | [2224-minimum-number-of-operations-to-convert-time](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/2224-minimum-number-of-operations-to-convert-time) |
 | [2278-percentage-of-letter-in-string](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/2278-percentage-of-letter-in-string) |
 | [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
+| [2716-minimize-string-length](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/2716-minimize-string-length) |
 | [2810-faulty-keyboard](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/2810-faulty-keyboard) |
 | [2942-find-words-containing-character](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/2942-find-words-containing-character) |
 | [3794-reverse-string-prefix](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/3794-reverse-string-prefix) |
