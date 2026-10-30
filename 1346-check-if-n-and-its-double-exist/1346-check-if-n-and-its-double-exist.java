@@ -1,14 +1,13 @@
 class Solution {
-    public boolean checkIfExist(int[] arr) {
-        ArrayList<Integer> a = new ArrayList();
-        for(int i : arr){
-            a.add(i);
-        }
-        for(int i =0;i<= arr.length-1;i++){
-            if(a.contains(arr[i]/2) && arr[i]%2==0 && a.indexOf(arr[i]/2) != i) {
-                return true;
+    public boolean checkIfExist(int[]  nums) {
+       for(int i = 0; i < nums.length; i++) {
+            for(int j = 0; j < nums.length; j++) {
+                if(nums[i] == 2 * nums[j] && i != j) {
+                    return true;
+                }
             }
         }
+
         return false;
     }
 }
