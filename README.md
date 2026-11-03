@@ -50,6 +50,7 @@
 | [0724-find-pivot-index](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/0724-find-pivot-index) |
 | [0746-min-cost-climbing-stairs](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/0746-min-cost-climbing-stairs) |
 | [0881-boats-to-save-people](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/0881-boats-to-save-people) |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/0977-squares-of-a-sorted-array) |
 | [1331-rank-transform-of-an-array](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/1331-rank-transform-of-an-array) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
@@ -159,6 +160,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/0560-subarray-sum-equals-k) |
 | [0692-top-k-frequent-words](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/0692-top-k-frequent-words) |
 | [0771-jewels-and-stones](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/0771-jewels-and-stones) |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1331-rank-transform-of-an-array](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/1331-rank-transform-of-an-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -582,6 +584,7 @@
 |  |
 | ------- |
 | [0523-continuous-subarray-sum](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/0523-continuous-subarray-sum) |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/0961-n-repeated-element-in-size-2n-array) |
 ## Counting Sort
 |  |
 | ------- |
