@@ -111,6 +111,7 @@
 | [1360-number-of-days-between-two-dates](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/1360-number-of-days-between-two-dates) |
 | [1512-number-of-good-pairs](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/1512-number-of-good-pairs) |
 | [1716-calculate-money-in-leetcode-bank](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/1716-calculate-money-in-leetcode-bank) |
+| [1837-sum-of-digits-in-base-k](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/1837-sum-of-digits-in-base-k) |
 | [2119-a-number-after-a-double-reversal](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/2119-a-number-after-a-double-reversal) |
 | [2139-minimum-moves-to-reach-target-score](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/2139-minimum-moves-to-reach-target-score) |
 | [2169-count-operations-to-obtain-zero](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/2169-count-operations-to-obtain-zero) |
