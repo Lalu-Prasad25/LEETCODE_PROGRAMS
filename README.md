@@ -24,6 +24,7 @@
 | [0128-longest-consecutive-sequence](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/0137-single-number-ii) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0152-maximum-product-subarray](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/0152-maximum-product-subarray) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/0169-majority-element) |
@@ -85,6 +86,7 @@
 | [0007-reverse-integer](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/0007-reverse-integer) |
 | [0050-powx-n](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/0050-powx-n) |
 | [0070-climbing-stairs](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/0070-climbing-stairs) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0168-excel-sheet-column-title](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/0171-excel-sheet-column-number) |
 | [0189-rotate-array](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/0189-rotate-array) |
@@ -427,6 +429,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/0020-valid-parentheses) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/0150-evaluate-reverse-polish-notation) |
 ## Bracket Sequences
 |  |
 | ------- |
