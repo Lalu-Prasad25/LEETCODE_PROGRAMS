@@ -55,6 +55,7 @@
 | [0881-boats-to-save-people](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/0881-boats-to-save-people) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/0977-squares-of-a-sorted-array) |
+| [1267-count-servers-that-communicate](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/1267-count-servers-that-communicate) |
 | [1287-element-appearing-more-than-25-in-sorted-array](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/1287-element-appearing-more-than-25-in-sorted-array) |
 | [1331-rank-transform-of-an-array](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/1331-rank-transform-of-an-array) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
@@ -137,6 +138,7 @@
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/0074-search-a-2d-matrix) |
+| [1267-count-servers-that-communicate](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/1267-count-servers-that-communicate) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [2614-prime-in-diagonal](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/2614-prime-in-diagonal) |
 ## Number Theory
@@ -404,6 +406,7 @@
 | [0347-top-k-frequent-elements](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/0451-sort-characters-by-frequency) |
 | [0692-top-k-frequent-words](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/0692-top-k-frequent-words) |
+| [1267-count-servers-that-communicate](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/1267-count-servers-that-communicate) |
 | [1512-number-of-good-pairs](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/1512-number-of-good-pairs) |
 | [2206-divide-array-into-equal-pairs](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/2206-divide-array-into-equal-pairs) |
 | [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
@@ -577,6 +580,7 @@
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/0128-longest-consecutive-sequence) |
+| [1267-count-servers-that-communicate](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/1267-count-servers-that-communicate) |
 ## Binary Indexed Tree
 |  |
 | ------- |
@@ -610,4 +614,12 @@
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/0062-unique-paths) |
+## Depth-First Search
+|  |
+| ------- |
+| [1267-count-servers-that-communicate](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/1267-count-servers-that-communicate) |
+## Breadth-First Search
+|  |
+| ------- |
+| [1267-count-servers-that-communicate](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/1267-count-servers-that-communicate) |
 <!---LeetCode Topics End-->
