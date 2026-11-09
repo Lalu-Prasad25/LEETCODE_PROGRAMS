@@ -69,6 +69,7 @@
 | [2149-rearrange-array-elements-by-sign](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2206-divide-array-into-equal-pairs](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/2206-divide-array-into-equal-pairs) |
+| [2295-replace-elements-in-an-array](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/2295-replace-elements-in-an-array) |
 | [2341-maximum-number-of-pairs-in-array](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/2341-maximum-number-of-pairs-in-array) |
 | [2560-house-robber-iv](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/2560-house-robber-iv) |
 | [2614-prime-in-diagonal](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/2614-prime-in-diagonal) |
@@ -182,6 +183,7 @@
 | [2154-keep-multiplying-found-values-by-two](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2206-divide-array-into-equal-pairs](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/2206-divide-array-into-equal-pairs) |
 | [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
+| [2295-replace-elements-in-an-array](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/2295-replace-elements-in-an-array) |
 | [2341-maximum-number-of-pairs-in-array](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/2341-maximum-number-of-pairs-in-array) |
 | [2716-minimize-string-length](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/2716-minimize-string-length) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
@@ -433,6 +435,7 @@
 | [2169-count-operations-to-obtain-zero](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/2169-count-operations-to-obtain-zero) |
 | [2177-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/2177-find-three-consecutive-integers-that-sum-to-a-given-number) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/2180-count-integers-with-even-digit-sum) |
+| [2295-replace-elements-in-an-array](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/2295-replace-elements-in-an-array) |
 | [2810-faulty-keyboard](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/2810-faulty-keyboard) |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/3304-find-the-k-th-character-in-string-game-i) |
 | [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/3823-reverse-letters-then-special-characters-in-a-string) |
