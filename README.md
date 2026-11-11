@@ -132,6 +132,7 @@
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/3304-find-the-k-th-character-in-string-game-i) |
 | [3663-find-the-least-frequent-digit](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/3663-find-the-least-frequent-digit) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
+| [3789-minimum-cost-to-acquire-required-items](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/3789-minimum-cost-to-acquire-required-items) |
 | [3870-count-commas-in-range](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/3871-count-commas-in-range-ii) |
 | [3945-digit-frequency-score](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/3945-digit-frequency-score) |
@@ -275,6 +276,7 @@
 | [2554-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/2554-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2560-house-robber-iv](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/2560-house-robber-iv) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/3727-maximum-alternating-sum-of-squares) |
+| [3789-minimum-cost-to-acquire-required-items](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/3789-minimum-cost-to-acquire-required-items) |
 | [4000-largest-integer-with-given-digit-sum](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/4000-largest-integer-with-given-digit-sum) |
 ## Database
 |  |
