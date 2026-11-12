@@ -79,6 +79,7 @@
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2942-find-words-containing-character](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/2942-find-words-containing-character) |
 | [3065-minimum-operations-to-exceed-threshold-value-i](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/3065-minimum-operations-to-exceed-threshold-value-i) |
+| [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3467-transform-array-by-parity](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/3467-transform-array-by-parity) |
