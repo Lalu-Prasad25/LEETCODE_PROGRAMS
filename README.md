@@ -64,6 +64,7 @@
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1512-number-of-good-pairs](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/1512-number-of-good-pairs) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1991-find-the-middle-index-in-array](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/1991-find-the-middle-index-in-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -117,6 +118,7 @@
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1360-number-of-days-between-two-dates](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/1360-number-of-days-between-two-dates) |
 | [1512-number-of-good-pairs](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/1512-number-of-good-pairs) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1716-calculate-money-in-leetcode-bank](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/1716-calculate-money-in-leetcode-bank) |
 | [1837-sum-of-digits-in-base-k](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/1837-sum-of-digits-in-base-k) |
 | [2119-a-number-after-a-double-reversal](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/2119-a-number-after-a-double-reversal) |
@@ -409,6 +411,7 @@
 | [0509-fibonacci-number](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/0509-fibonacci-number) |
 | [0746-min-cost-climbing-stairs](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/0746-min-cost-climbing-stairs) |
 | [1137-n-th-tribonacci-number](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/1137-n-th-tribonacci-number) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [2560-house-robber-iv](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/2560-house-robber-iv) |
 ## Counting
 |  |
@@ -491,6 +494,7 @@
 | [0523-continuous-subarray-sum](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/0724-find-pivot-index) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1991-find-the-middle-index-in-array](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/1991-find-the-middle-index-in-array) |
 ## Memoization
 |  |
