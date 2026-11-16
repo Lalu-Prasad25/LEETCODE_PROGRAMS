@@ -83,6 +83,7 @@
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
+| [3364-minimum-positive-sum-subarray](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/3364-minimum-positive-sum-subarray) |
 | [3467-transform-array-by-parity](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/3467-transform-array-by-parity) |
 | [3663-find-the-least-frequent-digit](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/3663-find-the-least-frequent-digit) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/3727-maximum-alternating-sum-of-squares) |
@@ -496,6 +497,7 @@
 | [0724-find-pivot-index](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/0724-find-pivot-index) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1991-find-the-middle-index-in-array](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/1991-find-the-middle-index-in-array) |
+| [3364-minimum-positive-sum-subarray](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/3364-minimum-positive-sum-subarray) |
 ## Memoization
 |  |
 | ------- |
@@ -529,6 +531,7 @@
 | [0219-contains-duplicate-ii](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/0219-contains-duplicate-ii) |
 | [0643-maximum-average-subarray-i](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/0643-maximum-average-subarray-i) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
+| [3364-minimum-positive-sum-subarray](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/3364-minimum-positive-sum-subarray) |
 ## Euler's Totient Function
 |  |
 | ------- |
