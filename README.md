@@ -71,6 +71,7 @@
 | [2149-rearrange-array-elements-by-sign](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2206-divide-array-into-equal-pairs](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/2206-divide-array-into-equal-pairs) |
+| [2293-min-max-game](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/2293-min-max-game) |
 | [2295-replace-elements-in-an-array](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/2295-replace-elements-in-an-array) |
 | [2341-maximum-number-of-pairs-in-array](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/2341-maximum-number-of-pairs-in-array) |
 | [2554-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/2554-maximum-number-of-integers-to-choose-from-a-range-i) |
@@ -449,6 +450,7 @@
 | [2169-count-operations-to-obtain-zero](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/2169-count-operations-to-obtain-zero) |
 | [2177-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/2177-find-three-consecutive-integers-that-sum-to-a-given-number) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/2180-count-integers-with-even-digit-sum) |
+| [2293-min-max-game](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/2293-min-max-game) |
 | [2295-replace-elements-in-an-array](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/2295-replace-elements-in-an-array) |
 | [2810-faulty-keyboard](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/2810-faulty-keyboard) |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/3304-find-the-k-th-character-in-string-game-i) |
