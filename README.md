@@ -259,6 +259,7 @@
 | [1796-second-largest-digit-in-a-string](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/1796-second-largest-digit-in-a-string) |
 | [1844-replace-all-digits-with-characters](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/1844-replace-all-digits-with-characters) |
 | [2224-minimum-number-of-operations-to-convert-time](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/2224-minimum-number-of-operations-to-convert-time) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2278-percentage-of-letter-in-string](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/2278-percentage-of-letter-in-string) |
 | [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
 | [2716-minimize-string-length](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/2716-minimize-string-length) |
@@ -450,6 +451,7 @@
 | [2169-count-operations-to-obtain-zero](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/2169-count-operations-to-obtain-zero) |
 | [2177-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/2177-find-three-consecutive-integers-that-sum-to-a-given-number) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/2180-count-integers-with-even-digit-sum) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2293-min-max-game](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/2293-min-max-game) |
 | [2295-replace-elements-in-an-array](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/2295-replace-elements-in-an-array) |
 | [2810-faulty-keyboard](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/2810-faulty-keyboard) |
