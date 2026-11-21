@@ -120,6 +120,7 @@
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1360-number-of-days-between-two-dates](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/1360-number-of-days-between-two-dates) |
 | [1512-number-of-good-pairs](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/1512-number-of-good-pairs) |
+| [1518-water-bottles](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/1518-water-bottles) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1716-calculate-money-in-leetcode-bank](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/1716-calculate-money-in-leetcode-bank) |
 | [1837-sum-of-digits-in-base-k](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/1837-sum-of-digits-in-base-k) |
@@ -447,6 +448,7 @@
 | ------- |
 | [0412-fizz-buzz](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/0412-fizz-buzz) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
+| [1518-water-bottles](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/1518-water-bottles) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2169-count-operations-to-obtain-zero](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/2169-count-operations-to-obtain-zero) |
