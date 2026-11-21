@@ -130,6 +130,7 @@
 | [2180-count-integers-with-even-digit-sum](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/2180-count-integers-with-even-digit-sum) |
 | [2427-number-of-common-factors](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/2427-number-of-common-factors) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/2520-count-the-digits-that-divide-a-number) |
+| [2582-pass-the-pillow](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/2582-pass-the-pillow) |
 | [2614-prime-in-diagonal](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/2614-prime-in-diagonal) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/2894-divisible-and-non-divisible-sums-difference) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/3232-find-if-digit-game-can-be-won) |
@@ -454,6 +455,7 @@
 | [2243-calculate-digit-sum-of-a-string](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2293-min-max-game](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/2293-min-max-game) |
 | [2295-replace-elements-in-an-array](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/2295-replace-elements-in-an-array) |
+| [2582-pass-the-pillow](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/2582-pass-the-pillow) |
 | [2810-faulty-keyboard](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/2810-faulty-keyboard) |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/3304-find-the-k-th-character-in-string-game-i) |
 | [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/3823-reverse-letters-then-special-characters-in-a-string) |
