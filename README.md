@@ -260,6 +260,7 @@
 | [1768-merge-strings-alternately](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/1768-merge-strings-alternately) |
 | [1796-second-largest-digit-in-a-string](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/1796-second-largest-digit-in-a-string) |
 | [1844-replace-all-digits-with-characters](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/1844-replace-all-digits-with-characters) |
+| [2124-check-if-all-as-appears-before-all-bs](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2224-minimum-number-of-operations-to-convert-time](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/2224-minimum-number-of-operations-to-convert-time) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2278-percentage-of-letter-in-string](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/2278-percentage-of-letter-in-string) |
