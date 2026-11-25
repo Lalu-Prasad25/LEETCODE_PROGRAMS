@@ -260,6 +260,7 @@
 | [1768-merge-strings-alternately](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/1768-merge-strings-alternately) |
 | [1796-second-largest-digit-in-a-string](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/1796-second-largest-digit-in-a-string) |
 | [1844-replace-all-digits-with-characters](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/1844-replace-all-digits-with-characters) |
+| [1859-sorting-the-sentence](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/1859-sorting-the-sentence) |
 | [2124-check-if-all-as-appears-before-all-bs](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2224-minimum-number-of-operations-to-convert-time](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/2224-minimum-number-of-operations-to-convert-time) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/2243-calculate-digit-sum-of-a-string) |
@@ -385,6 +386,7 @@
 | [1346-check-if-n-and-its-double-exist](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/1636-sort-array-by-increasing-frequency) |
+| [1859-sorting-the-sentence](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/1859-sorting-the-sentence) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2554-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/2554-maximum-number-of-integers-to-choose-from-a-range-i) |
@@ -626,6 +628,7 @@
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/0075-sort-colors) |
+| [1859-sorting-the-sentence](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/1859-sorting-the-sentence) |
 ## Timsort
 |  |
 | ------- |
