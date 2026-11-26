@@ -137,6 +137,7 @@
 | [3232-find-if-digit-game-can-be-won](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/3304-find-the-k-th-character-in-string-game-i) |
+| [3360-stone-removal-game](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/3360-stone-removal-game) |
 | [3663-find-the-least-frequent-digit](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/3663-find-the-least-frequent-digit) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3789-minimum-cost-to-acquire-required-items](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/3789-minimum-cost-to-acquire-required-items) |
@@ -463,6 +464,7 @@
 | [2582-pass-the-pillow](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/2582-pass-the-pillow) |
 | [2810-faulty-keyboard](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/2810-faulty-keyboard) |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/3304-find-the-k-th-character-in-string-game-i) |
+| [3360-stone-removal-game](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/3360-stone-removal-game) |
 | [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/3823-reverse-letters-then-special-characters-in-a-string) |
 ## Stack
 |  |
