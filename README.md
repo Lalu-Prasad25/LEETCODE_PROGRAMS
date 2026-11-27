@@ -53,6 +53,7 @@
 | [0692-top-k-frequent-words](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/0692-top-k-frequent-words) |
 | [0724-find-pivot-index](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/0724-find-pivot-index) |
 | [0746-min-cost-climbing-stairs](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/0746-min-cost-climbing-stairs) |
+| [0877-stone-game](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/0877-stone-game) |
 | [0881-boats-to-save-people](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/0881-boats-to-save-people) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/0977-squares-of-a-sorted-array) |
@@ -114,6 +115,7 @@
 | [0628-maximum-product-of-three-numbers](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/0628-maximum-product-of-three-numbers) |
 | [0633-sum-of-square-numbers](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/0633-sum-of-square-numbers) |
 | [0728-self-dividing-numbers](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/0728-self-dividing-numbers) |
+| [0877-stone-game](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/0877-stone-game) |
 | [1137-n-th-tribonacci-number](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/1137-n-th-tribonacci-number) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1323-maximum-69-number](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/1323-maximum-69-number) |
@@ -419,6 +421,7 @@
 | [0198-house-robber](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/0198-house-robber) |
 | [0509-fibonacci-number](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/0509-fibonacci-number) |
 | [0746-min-cost-climbing-stairs](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/0746-min-cost-climbing-stairs) |
+| [0877-stone-game](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/0877-stone-game) |
 | [1137-n-th-tribonacci-number](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/1137-n-th-tribonacci-number) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [2560-house-robber-iv](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/2560-house-robber-iv) |
@@ -597,10 +600,12 @@
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/0292-nim-game) |
+| [0877-stone-game](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/0877-stone-game) |
 ## Game Theory
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/0292-nim-game) |
+| [0877-stone-game](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/0877-stone-game) |
 ## Nim Game
 |  |
 | ------- |
@@ -656,4 +661,8 @@
 |  |
 | ------- |
 | [1267-count-servers-that-communicate](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/1267-count-servers-that-communicate) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/Lalu-Prasad25/LEETCODE_PROGRAMS/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
